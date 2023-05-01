@@ -1,5 +1,12 @@
 # MERN Ecommerce
 
+## Demo
+
+This application is deployed on Render Please check it out : https://mern-store.onrender.com
+
+See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4
+
+
 ## Description
 
 An ecommerce store built with MERN stack, and utilizes third party API's. This ecommerce store enable three main different flows or implementations:
@@ -16,21 +23,3 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
   * React for displaying UI components
   * Redux to manage application's state
   * Redux Thunk middleware to handle asynchronous redux actions
-
-
-## Database Seed
-
-* The seed command will create an admin user in the database
-* The email and password are passed with the command as arguments
-* Like below command, replace brackets with email and password. 
-* For more information, see code [here](server/utils/seed.js)
-
-```
-npm run seed:db [email-***@****.com] [password-******] // This is just an example.
-```
-
-## Demo
-
-This application is deployed on Render Please check it out :smile: [here](https://mern-store.onrender.com).
-
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4
