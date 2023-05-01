@@ -4,7 +4,7 @@
 
 This application is deployed on Render Please check it out : https://mern-store.onrender.com
 
-See admin dashboard [demo](https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4
+See admin dashboard : https://mernstore-bucket.s3.us-east-2.amazonaws.com/admin.mp4
 
 
 ## Description
